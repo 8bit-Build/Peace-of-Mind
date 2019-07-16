@@ -14,6 +14,8 @@ This modpack was designed for:
 
 Pack Mod Count= 140
 
+Main Author/Dev: TooGoodMules/muledh
+
 Discord Communication:
 
 <a href="http://discord.gg/Y2XwGKE">Peace of Mind-Discord Link</a>
