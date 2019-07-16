@@ -16,7 +16,7 @@ Pack Mod Count= 140
 
 Discord Communication:
 
-<a href="http://discord.gg/QY2XwGKE">Peace of Mind-Discord Link</a>
+<a href="http://discord.gg/Y2XwGKE">Peace of Mind-Discord Link</a>
 
 There is a channel for this pack titled "peace-of-mind" under the "Released" section of the Minecraft Pack Development Server.
 
