@@ -1,5 +1,7 @@
-# Peace-of-Mind
+# Peace-of-Mind (POM)
 [![Curse Forge](http://cf.way2muchnoise.eu/full_peace-of-mind_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/peace-of-mind)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/peace-of-mind.svg)](https://www.curseforge.com/minecraft/modpacks/peace-of-mind)
+
+#Working on updating this GitHub, thanks for your patience...
 
 A Quest Based, Beginner Friendly Modpack designed for Peaceful Difficulty
 
