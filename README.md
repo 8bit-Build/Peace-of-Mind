@@ -14,7 +14,7 @@ This modpack was designed for:
 
 Pack Mod Count= 140
 
-Main Author/Dev: TooGoodMules/muledh
+Main Author/Dev: TooGoodMules/mulesh
 
 Discord Communication:
 
