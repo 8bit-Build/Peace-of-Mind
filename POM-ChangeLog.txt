@@ -14,6 +14,8 @@
 #Issues:
 -#85-ignore nbt set to true for tinkers tables quest
 -#83-BetterQuesting-Updated to 3.5.320.jar to address slow checkbox response time
+-#3036-Possible crash due to Botania Lexicon -Update, https://github.com/Vazkii/Botania/issues/3036
+-https://www.curseforge.com/minecraft/mc-mods/botania/files/2846950
 
 -Git #1-Portal to Alfheim part 2 auto completes (and other ghost quests) issue
 
