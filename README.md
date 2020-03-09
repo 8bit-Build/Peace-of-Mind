@@ -14,7 +14,7 @@ This modpack was designed for:
     Players who are new to modded Minecraft
     Players who want to play modded Minecraft on Peaceful Difficulty
 
-Pack Mod Count= 140
+Pack Mod Count= 145
 
 Main Author/Dev: TooGoodMules/mulesh
 
