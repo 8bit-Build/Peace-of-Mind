@@ -19,9 +19,10 @@ Pack Mod Count= 145
 Main Author/Dev: TooGoodMules/mulesh
 
 Discord Communication:
+1. Peace of Mind fans come join us for a more community and social experience as we now have a updated Discord page! Discussion, help, and more can be reached @ <a href="https://discord.gg/Q4Y6dNV">8bit Community-Discord Link</a>
 
-<a href="http://discord.gg/Y2XwGKE">Peace of Mind-Discord Link</a>
+2. There alos is a channel for this pack titled "peace-of-mind" under the "Released" section of the Minecraft Pack Development Server @ <a href="http://discord.gg/Y2XwGKE">Minecraft Pack Development-Discord Link</a>
 
-There is a channel for this pack titled "peace-of-mind" under the "Released" section of the Minecraft Pack Development Server.
+
 
 
