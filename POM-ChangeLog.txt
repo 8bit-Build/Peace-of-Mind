@@ -1,24 +1,22 @@
 #v2.1.0-POM March Update
--Please Remember to Backup your world(s) before updating!!!
--Once updated craft the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
+-Warning Mod changes (read comments below)! Please Remember to Backup your world(s) before updating!!!
+-Once updated craft and use the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
 -These will update the questbook and the loot database
 -Thanks everyone, happy mining, and enjoy the pack!
 
 #Fixed/Comments:
+--Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.0!!!
 -Forge 14.23.5.2847
 -Many Mod Updates
 -Main menu updates (formatting) 2.1.0
 -Please backup your world(s) before updating!
--Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.0!!!
+
 
 #Issues:
 -#85-ignore nbt set to true for tinkers tables quest
 -#83-BetterQuesting-Updated to 3.5.320.jar to address slow checkbox response time
 -#3036-Possible crash due to Botania Lexicon -Update, https://github.com/Vazkii/Botania/issues/3036
--https://www.curseforge.com/minecraft/mc-mods/botania/files/2846950
-
 -Git #1-Portal to Alfheim part 2 auto completes (and other ghost quests) issue
-
 -Roots Cast away quest= Ignore NBT set to false
 -Verified open quests=defaults to minus key, is set(again)=key_key.betterquesting.quests:12:NONE
 
@@ -29,7 +27,7 @@
 #Whats New?:
 Roots 3-1.12.2-3.0.25.jar + Questline Update
 Solar Flux Reborn + Questline
-Tinkers tool leveling
+TinkerToolLeveling-1.12.2-1.1.0.jar
 Xnet + Questline
 
 #Mods Removed:
@@ -45,7 +43,7 @@ BetterWithMods-1.12-2.3.21.jar
 Biomes O'Plenty
 Bonsai Trees
 BookShelf
-Botania
+Botania r1.10-363.jar
 Chisel
 Chunk Pregen
 CMM
@@ -78,7 +76,7 @@ Mystical Lib
 mysticalworld-1.12.2-1.7.1.jar
 NaturesCompass-1.12.2-1.8.5.jar
 Open Elevator
-OreExcavation
+OreExcavation-1.4.150.jar
 Ore Lib
 Quark-r1.6-178.jar
 Rustic
@@ -94,20 +92,19 @@ WayStones
 
 ##End##
 
-#Server Notes#
-
-#By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
--Start.bat= if running windows os server
--launch.sh= for linux os server
--launch.command=for mac os server
+#Server Change/Readme/Notes#
+-Cleaned up Mods/Config not needed for server-Removed Client/Visual only Mods
+#By popular Demand Start Server scripts (choose one) based on OS being used (configured with 4gb ram to start):
+-Win_start_server.bat= if running windows os server
+-Linux_launch.sh= for linux os server
+-Mac launch.command=for mac os server
 
 -Running one of these scripts, will gen the server, remember to edit server.properties to your liking IP, ports, memory, whitelist,ect.
 -Remember to Backup your world(s) before updating!!!
 -If server gets stuck when updating server on currnet world type /fml confirm in the console
 
 ##Notes before Release:
-Leather Rcipe? Already implemented
-Remove Sortex Fanver and Resource Packs
+Remove Extra Resource Packs
 
-#(Old do not include)
+-----#Below this line (Old do not include)------
 
