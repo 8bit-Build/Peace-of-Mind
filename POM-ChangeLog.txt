@@ -6,11 +6,8 @@
 
 #Fixed/Comments:
 --Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.0!!!
--Forge 14.23.5.2847
+-Now on Forge 14.23.5.2847
 -Many Mod Updates
--Main menu updates (formatting) 2.1.0
--Please backup your world(s) before updating!
-
 
 #Issues:
 -#85-ignore nbt set to true for tinkers tables quest
@@ -22,6 +19,8 @@
 
 #Config Changes:
 -Dragon Breath Recipe Updated
+-Loot table and seed drop updates
+-Main menu updates (formatting) 2.1.0
 -Reminder: FTB utilities backups=(check ftbbackups.cfg)
 
 #Whats New?:
@@ -33,7 +32,7 @@ Xnet + Questline
 #Mods Removed:
 React (abandoned)
 
-#Mods Updated: (2.1.0) -1/15/2020
+#Mods Updated: (2.1.0) -3/10/2020
 Antique Atlas
 astralsorcery-1.12.2-1.10.22.jar
 Better Foliage
