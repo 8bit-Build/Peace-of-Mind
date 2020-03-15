@@ -1,11 +1,12 @@
 #v2.1.0-POM March Update
 -Warning Mod changes (read comments below)! Please Remember to Backup your world(s) before updating!!!
--Once updated craft and use the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
--These will update the questbook and the loot database
 -Thanks everyone, happy mining, and enjoy the pack!
 
 #Fixed/Comments:
---Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.0!!!
+-Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. -Backup your worlds before updating to 2.1.0!!!
+-Upon Loding the update with current worlds due to roots update, 55 missing entries will be displayed due to mod changes in Roots 3. Yes-will make a autobackup of old world state which may take 1-2 minutes depending on world size and then load up.
+-Use the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
+-These will update the questbook and the loot database
 -Now on Forge 14.23.5.2847
 -Many Mod Updates
 
