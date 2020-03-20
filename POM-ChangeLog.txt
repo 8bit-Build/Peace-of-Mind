@@ -78,6 +78,7 @@ NaturesCompass-1.12.2-1.8.5.jar
 Open Elevator
 OreExcavation-1.4.150.jar
 Ore Lib
+Pam's HarvestCraft 1.12.2zg.jar
 Quark-r1.6-178.jar
 Rustic
 Serene Seasons
