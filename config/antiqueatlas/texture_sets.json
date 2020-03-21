@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "data": {
+    "BOP_BAMBOO": [
+      "golrithsaa:textures/bop_bamboo.png"
+    ],
+    "BOP_BAYOU": [
+      "golrithsaa:textures/bop_bayou1.png",
+      "golrithsaa:textures/bop_bayou2.png",
+      "golrithsaa:textures/bop_bayou3.png"
+    ],
+    "BOP_BOG": [
+      "golrithsaa:textures/bop_bog.png"
+    ],
+    "BOP_BOREAL": [
+      "golrithsaa:textures/bop_boreal.png"
+    ],
+    "BOP_CANYON": [
+      "golrithsaa:textures/bop_canyon.png"
+    ],
+    "BOP_CHERRY": [
+      "golrithsaa:textures/bop_cherry.png"
+    ],
+    "BOP_CRAG": [
+      "golrithsaa:textures/bop_crag.png"
+    ],
+    "BOP_DEAD": [
+      "golrithsaa:textures/bop_dead.png"
+    ],
+    "BOP_EUCALYPTUS": [
+      "golrithsaa:textures/bop_eucalyptus.png"
+    ],
+    "BOP_FEN": [
+      "golrithsaa:textures/bop_fen.png"
+    ],
+    "BOP_FLOWER": [
+      "golrithsaa:textures/bop_flower.png"
+    ],
+    "BOP_FOOTHILLS": [
+      "golrithsaa:textures/bop_foothills.png"
+    ],
+    "BOP_FUNGI": [
+      "golrithsaa:textures/bop_fungi.png"
+    ],
+    "BOP_GLACIER": [
+      "golrithsaa:textures/bop_glacier.png"
+    ],
+    "BOP_GROVE": [
+      "golrithsaa:textures/bop_grove1.png",
+      "golrithsaa:textures/bop_grove2.png"
+    ],
+    "BOP_HIGHLAND": [
+      "golrithsaa:textures/bop_highland.png"
+    ],
+    "BOP_LAVENDER": [
+      "golrithsaa:textures/bop_lavender1.png",
+      "golrithsaa:textures/bop_lavender2.png",
+      "golrithsaa:textures/bop_lavender3.png"
+    ],
+    "BOP_LUSHSWAMP": [
+      "golrithsaa:textures/bop_lushswamp1.png",
+      "golrithsaa:textures/bop_lushswamp2.png",
+      "golrithsaa:textures/bop_lushswamp3.png",
+      "golrithsaa:textures/bop_lushswamp4.png"
+    ],
+    "BOP_MANGROVE": [
+      "golrithsaa:textures/bop_mangrove.png"
+    ],
+    "BOP_MAPLE": [
+      "golrithsaa:textures/bop_maple1.png",
+      "golrithsaa:textures/bop_maple2.png"
+    ],
+    "BOP_MARSH": [
+      "golrithsaa:textures/bop_marsh1.png",
+      "golrithsaa:textures/bop_marsh2.png",
+      "golrithsaa:textures/bop_marsh3.png"
+    ],
+    "BOP_MEADOW": [
+      "golrithsaa:textures/bop_meadow.png"
+    ],
+    "BOP_MOOR": [
+      "golrithsaa:textures/bop_moor.png"
+    ],
+    "BOP_MOUNTAIN": [
+      "golrithsaa:textures/bop_mountain.png"
+    ],
+    "BOP_MYSTICAL": [
+      "golrithsaa:textures/bop_mystical.png"
+    ],
+    "BOP_OMINOUS": [
+      "golrithsaa:textures/bop_ominous1.png",
+      "golrithsaa:textures/bop_ominous2.png"
+    ],
+    "BOP_ORCHARD": [
+      "golrithsaa:textures/bop_orchard1.png",
+      "golrithsaa:textures/bop_orchard2.png"
+    ],
+    "BOP_OUTBACK": [
+      "golrithsaa:textures/bop_outback1.png",
+      "golrithsaa:textures/bop_outback2.png",
+      "golrithsaa:textures/bop_outback3.png",
+      "golrithsaa:textures/bop_outback4.png",
+      "golrithsaa:textures/bop_outback5.png",
+      "golrithsaa:textures/bop_outback6.png"
+    ],
+    "BOP_OVERGROWN": [
+      "golrithsaa:textures/bop_overgrown.png"
+    ],
+    "BOP_SACRED": [
+      "golrithsaa:textures/bop_sacred.png"
+    ],
+    "BOP_SEASONAL": [
+      "golrithsaa:textures/bop_seasonal1.png",
+      "golrithsaa:textures/bop_seasonal2.png",
+      "golrithsaa:textures/bop_seasonal3.png"
+    ],
+    "BOP_SHIELD": [
+      "golrithsaa:textures/bop_shield.png"
+    ],
+    "BOP_SHRUBLAND": [
+      "antiqueatlas:textures/gui/tiles/grass.png",
+      "antiqueatlas:textures/gui/tiles/grass2.png",
+      "antiqueatlas:textures/gui/tiles/grass3.png",
+      "golrithsaa:textures/bop_shrubland.png"
+    ],
+    "BOP_STEPPE": [
+      "golrithsaa:textures/bop_steppe.png"
+    ],
+    "BOP_THICKET": [
+      "golrithsaa:textures/bop_thicket.png"
+    ],
+    "BOP_TROPICS": [
+      "golrithsaa:textures/bop_tropics.png"
+    ],
+    "BOP_VOLCANIC": [
+      "golrithsaa:textures/bop_volcanic.png"
+    ],
+    "BOP_WASTELAND": [
+      "golrithsaa:textures/bop_wasteland.png"
+    ],
+    "BOP_WETLAND": [
+      "golrithsaa:textures/bop_wetland1.png",
+      "golrithsaa:textures/bop_wetland2.png",
+      "golrithsaa:textures/bop_wetland3.png"
+    ],
+    "TC_EERIE": [
+      "golrithsaa:textures/tc_eerie.png"
+    ],
+    "TC_MAGICAL": [
+      "golrithsaa:textures/tc_magicalforest1.png",
+      "golrithsaa:textures/tc_magicalforest2.png",
+      "golrithsaa:textures/tc_magicalforest3.png",
+      "golrithsaa:textures/tc_magicalforest4.png",
+      "golrithsaa:textures/tc_magicalforest5.png"
+    ],
+    "TC_TAINT": [
+      "golrithsaa:textures/tc_taint1.png",
+      "golrithsaa:textures/tc_taint2.png",
+      "golrithsaa:textures/tc_taint3.png",
+      "golrithsaa:textures/tc_taint4.png",
+      "golrithsaa:textures/tc_taint5.png"
+    ],
+    "TEST": [
+      "antiqueatlas:textures/gui/tiles/test.png",
+      "antiqueatlas:textures/gui/tiles/test.png"
+    ]
+  }
+}
