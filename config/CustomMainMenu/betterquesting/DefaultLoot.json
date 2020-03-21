@@ -1,0 +1,657 @@
+{
+  "groups": [
+    {
+      "name": "Common",
+      "weight": 40,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:iron_ingot",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:coal_ore",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:bone",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:string",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:gunpowder",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:clay",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:clay",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:clay",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:prismarine",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 1
+            },
+            {
+              "id": "minecraft:prismarine",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 2
+            },
+            {
+              "id": "minecraft:sea_lantern",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:log",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:stonebrick",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:glass",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:nether_brick",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:magma",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:red_nether_brick",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:sand",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:cactus",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:sand",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "biomesoplenty:terrarium",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 4
+            },
+            {
+              "id": "biomesoplenty:terrarium",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 14
+            },
+            {
+              "id": "biomesoplenty:terrarium",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 15
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "inventorypets:sheep_pet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:wheat",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:gold_ingot",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:redstone",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:dye",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:tnt",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:redstone_torch",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:hopper",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:chest",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:golden_apple",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:golden_carrot",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "birdsnests:birdsnest",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare",
+      "weight": 20,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:quartz_block",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:soul_sand",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:glowstone",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:potion",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Potion:8": "minecraft:long_swiftness"
+              }
+            },
+            {
+              "id": "minecraft:potion",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Potion:8": "minecraft:long_leaping"
+              }
+            },
+            {
+              "id": "minecraft:potion",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "Potion:8": "quark:long_haste"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:mycelium",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:red_mushroom",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:brown_mushroom",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:manacookie",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:ender_pearl",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:blaze_rod",
+              "Count": 32,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:ghast_tear",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:diamond",
+              "Count": 8,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:emerald",
+              "Count": 16,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:anvil",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            },
+            {
+              "id": "minecraft:enchanting_table",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 3,
+                    "id:2": 34
+                  }
+                }
+              }
+            },
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 5,
+                    "id:2": 32
+                  }
+                }
+              }
+            },
+            {
+              "id": "minecraft:enchanted_book",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "StoredEnchantments:9": {
+                  "10": {
+                    "lvl:2": 1,
+                    "id:2": 70
+                  }
+                }
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:golden_apple",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epic",
+      "weight": 10,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:beacon",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "inventorypets:house_pet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "homeDimension:3": 0
+              }
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "inventorypets:squid_pet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "inventorypets:spider_pet",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "storagedrawers:upgrade_storage",
+              "Count": 64,
+              "OreDict": "",
+              "Damage": 4
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "ironchest:iron_chest",
+              "Count": 4,
+              "OreDict": "",
+              "Damage": 2
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:dragon_egg",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "minecraft:elytra",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {}
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Legendary",
+      "weight": 1,
+      "rewards": [
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "betterbuilderswands:wandunbreakable",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "tconstruct:materials",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 50
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "botania:blacklotus",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 1
+            }
+          ]
+        },
+        {
+          "weight": 1,
+          "items": [
+            {
+              "id": "astralsorcery:itemrockcrystalsimple",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "astralsorcery:10": {
+                  "crystalProperties:10": {
+                    "collectiveCapability:3": 100,
+                    "size:3": 400,
+                    "purity:3": 100
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
