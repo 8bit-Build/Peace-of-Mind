@@ -1,39 +1,39 @@
-#v2.1.0-POM March Update
--Please Remember to Backup your world(s) before updating!!!
--Once updated craft the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
--These will update the questbook and the loot database
+#v2.1.0-POM March Update-Update
+-Warning Mod changes (read comments below)! Please Remember to Backup your world(s) before updating!!!
 -Thanks everyone, happy mining, and enjoy the pack!
 
 #Fixed/Comments:
--Forge 14.23.5.2847
+-Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. -Backup your worlds before updating to 2.1.0!!!
+-Upon Loding the update with current worlds due to roots update, 55 missing entries will be displayed due to mod changes in Roots 3. Yes-will make a autobackup of old world state which may take 1-2 minutes depending on world size and then load up.
+-Use the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
+-These will update the questbook and the loot database
+-Now on Forge 14.23.5.2847
 -Many Mod Updates
--Main menu updates (formatting) 2.1.0
--Please backup your world(s) before updating!
--Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.0!!!
 
 #Issues:
 -#85-ignore nbt set to true for tinkers tables quest
 -#83-BetterQuesting-Updated to 3.5.320.jar to address slow checkbox response time
-
+-#3036-Possible crash due to Botania Lexicon -Update, https://github.com/Vazkii/Botania/issues/3036
 -Git #1-Portal to Alfheim part 2 auto completes (and other ghost quests) issue
-
 -Roots Cast away quest= Ignore NBT set to false
 -Verified open quests=defaults to minus key, is set(again)=key_key.betterquesting.quests:12:NONE
 
 #Config Changes:
 -Dragon Breath Recipe Updated
+-Loot table and seed drop updates
+-Main menu updates (formatting) 2.1.0
 -Reminder: FTB utilities backups=(check ftbbackups.cfg)
 
 #Whats New?:
 Roots 3-1.12.2-3.0.25.jar + Questline Update
 Solar Flux Reborn + Questline
-Tinkers tool leveling
+TinkerToolLeveling-1.12.2-1.1.0.jar
 Xnet + Questline
 
 #Mods Removed:
 React (abandoned)
 
-#Mods Updated: (2.1.0) -1/15/2020
+#Mods Updated: (2.1.0) -3/10/2020
 Antique Atlas
 astralsorcery-1.12.2-1.10.22.jar
 Better Foliage
@@ -43,7 +43,7 @@ BetterWithMods-1.12-2.3.21.jar
 Biomes O'Plenty
 Bonsai Trees
 BookShelf
-Botania
+Botania r1.10-363.jar
 Chisel
 Chunk Pregen
 CMM
@@ -76,15 +76,16 @@ Mystical Lib
 mysticalworld-1.12.2-1.7.1.jar
 NaturesCompass-1.12.2-1.8.5.jar
 Open Elevator
-OreExcavation
+OreExcavation-1.4.150.jar
 Ore Lib
+Pam's HarvestCraft 1.12.2zg.jar
 Quark-r1.6-178.jar
 Rustic
 Serene Seasons
 Simple Corn
 StorageDrawers-1.12.2-5.4.1.jar
 Streams
-TConstruct-1.12.2-2.13.0.179.jar
+TConstruct-1.12.2-2.13.0.183.jar
 topaddons-1.12.2-1.13.0.jar
 tumbleweed-1.12-0.4.7.jar
 WayStones
@@ -92,20 +93,19 @@ WayStones
 
 ##End##
 
-#Server Notes#
-
-#By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
--Start.bat= if running windows os server
--launch.sh= for linux os server
--launch.command=for mac os server
+#Server Change/Readme/Notes#
+-Cleaned up Mods/Config not needed for server-Removed Client/Visual only Mods
+#By popular Demand Start Server scripts (choose one) based on OS being used (configured with 4gb ram to start):
+-Win_start_server.bat= if running windows os server
+-Linux_launch.sh= for linux os server
+-Mac launch.command=for mac os server
 
 -Running one of these scripts, will gen the server, remember to edit server.properties to your liking IP, ports, memory, whitelist,ect.
 -Remember to Backup your world(s) before updating!!!
 -If server gets stuck when updating server on currnet world type /fml confirm in the console
 
 ##Notes before Release:
-Leather Rcipe? Already implemented
-Remove Sortex Fanver and Resource Packs
+Remove Extra Resource Packs
 
-#(Old do not include)
+-----#Below this line (Old do not include)------
 
