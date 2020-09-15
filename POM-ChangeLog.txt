@@ -1,94 +1,74 @@
-#v2.1.0-POM March Time for a Update-Update-
--Warning Mod changes (read comments below)! Please Remember to Backup your world(s) before updating!!!
+#v2.1.1-POM # Working # Update
+-Please Remember to Backup your world(s) before updating!!!
+-Once updated craft the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
+-These will update the questbook and the loot database
 -Thanks everyone, happy mining, and enjoy the pack!
 
 #Fixed/Comments:
--Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. -Backup your worlds before updating to 2.1.0!!!
--Upon Loding the update with current worlds due to roots update, 55 missing entries will be displayed due to mod changes in Roots 3. Yes-will make a autobackup of old world state which may take 1-2 minutes depending on world size and then load up.
--Use the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
--These will update the questbook and the loot database
--Now on Forge 14.23.5.2847
+-Forge 14.23.5.2854
 -Many Mod Updates
+-Main menu updates (formatting) 2.1.1
+-Please backup your world(s) before updating!
+-Warning!!! -This update (2.1.1) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating beyond >2.1.0!!!
 
 #Issues:
--#85-ignore nbt set to true for tinkers tables quest
--#83-BetterQuesting-Updated to 3.5.320.jar to address slow checkbox response time
--#3036-Possible crash due to Botania Lexicon -Update, https://github.com/Vazkii/Botania/issues/3036
--Git #1-Portal to Alfheim part 2 auto completes (and other ghost quests) issue
--Roots Cast away quest= Ignore NBT set to false
--Verified open quests=defaults to minus key, is set(again)=key_key.betterquesting.quests:12:NONE
+-#11-Packed Ice Peaceful recipe
+-#10-Chunk loading ward uncraftable-Will be disabled use FTB Utilities for chunks 
+-#12-Extra utilities 2- Destruction Wand Recipe updated
+-#14-xnet nbt set to true for routing connections quest
+-Nether Star Quest spelling typo fixed-
+
 
 #Config Changes:
--Dragon Breath Recipe Updated
--Loot table and seed drop updates
--Main menu updates (formatting) 2.1.0
 -Reminder: FTB utilities backups=(check ftbbackups.cfg)
+-Verified open quests=defaults to minus key, is set(again)=key_key.betterquesting.quests:12:NONE
+-Update to inventory Tweaks sorting
 
 #Whats New?:
-Roots 3-1.12.2-3.0.25.jar + Questline Update
-Solar Flux Reborn + Questline
-TinkerToolLeveling-1.12.2-1.1.0.jar
-Xnet + Questline
+Better Questing Questbook Option (Key Bining Minus Key is still available for questbook as well)
 
 #Mods Removed:
-React (abandoned)
+None
 
-#Mods Updated: (2.1.0) -3/10/2020
-Antique Atlas
-astralsorcery-1.12.2-1.10.22.jar
-Better Foliage
-BetterQuesting-3.5.323.jar
-Better Questing StandardExpansion-3.4.173.jar
-BetterWithMods-1.12-2.3.21.jar
-Biomes O'Plenty
-Bonsai Trees
-BookShelf
-Botania r1.10-363.jar
-Chisel
-Chunk Pregen
-CMM
-Controlling
-CookingForBlockheads_1.12.2-6.5.0.jar
-comforts-1.12.2-1.4.1.3.jar
-Craft Tweaker
-Custom Main Menu
-CTM
-Ding
-Discord RP
-Dynamic Surroundings
-eguilib-0.1.1.jar
-Fairy Lights
-Farseek-1.12-2.5.jar
-Foam Fixed/Comments
-Forge EnderTech
-FTB Lib 
-FTB Utilities
-FTB Backups
-Gravestone Mod
-iChun
-Immersive Engineering
-Insperations
-JEHC
-JEI
-Journey Map
-LootTweaker-0.1.5+MC1.12.2.jar
-Mystical Lib
-mysticalworld-1.12.2-1.7.1.jar
-NaturesCompass-1.12.2-1.8.5.jar
-Open Elevator
-OreExcavation-1.4.150.jar
-Ore Lib
-Pam's HarvestCraft 1.12.2zg.jar
-Quark-r1.6-178.jar
-Rustic
-Serene Seasons
-Simple Corn
-StorageDrawers-1.12.2-5.4.1.jar
-Streams
-TConstruct-1.12.2-2.13.0.183.jar
-topaddons-1.12.2-1.13.0.jar
-tumbleweed-1.12-0.4.7.jar
-WayStones
+#Mods Updated: (2.1.1) -9/14/2020-
+
+AppleCore-mc1.12.2-3.4.0.jar
+AppleSkin-mc1.12-1.0.14.jar
+astralsorcery-1.12.2-1.10.27.jar
+badwithernocookiereloaded-1.12.2-3.4.18.jar
+BetterQuesting-3.5.329.jar
+BetterWithMods-1.12-2.3.23.jar
+BiomeTweaker-1.12.2-3.2.368.jar
+Chisel-MC1.12.2-1.0.2.45.jar
+Chunk Pregenerator V1.12-2.4E.jar
+CTM-MC1.12.2-1.0.2.31.jar
+Controlling-3.0.10.jar
+CraftTweaker2-1.12-4.1.20.586.jar
+DoggyTalents-1.12.2-1.15.1.5.jar
+DynamicSurroundings-1.12.2-3.6.1.0.jar
+fairylights-2.1.11-1.12.2.jar
+ForgeEndertech-1.12.2-4.5.4.0-build.0534.jar
+FTBLib-5.4.7.2.jar
+FTBUtilities-5.4.1.130.jar
+ImmersiveEngineering-0.12-98.jar
+inventorypets-1.12-2.0.6.jar
+jeiintegration_1.12.2-1.6.0.jar
+journeymap-1.12.2-5.7.1.jar
+just-enough-harvestcraft-1.12.2-1.7.2.jar
+jei_1.12.2-4.16.1.302.jar
+LootTweaker-0.1.7+MC1.12.2.jar
+mysticalworld-1.12.2-1.9.2.jar
+mysticallib-1.12.2-1.9.0.jar
+Patchouli-1.0-21.jar
+Psi-r1.1-78.1.jar
+Quark-r1.6-179.jar
+refinedstorage-1.6.16.jar
+refinedstorageaddons-0.4.5.ja
+Roots-1.12.2-3.0.32.jar
+rustic-1.1.6.jar
+SolarFluxReborn-1.12.2-12.4.11.jar
+StorageDrawers-1.12.2-5.4.2.jar
+Xtones-1.2.0.jar
 
 
 ##End##
