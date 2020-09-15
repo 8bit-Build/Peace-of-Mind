@@ -11,3 +11,6 @@ recipes.addShaped(<minecraft:stone_hoe>,[[<minecraft:cobblestone>,<minecraft:cob
 
 //Stone Sword
 recipes.addShaped(<minecraft:stone_sword>,[[null,<minecraft:cobblestone>,null],[null,<minecraft:cobblestone>,null],[null,<minecraft:stick>,null]]);
+
+//Ice
+recipes.addShaped(<minecraft:packed_ice>,[[<minecraft:snowball>,<minecraft:snowball>,<minecraft:snowball>],[<minecraft:snowball>,<minecraft:snowball>,<minecraft:snowball>],[<minecraft:snowball>,<minecraft:snowball>,<minecraft:snowball>]]);
