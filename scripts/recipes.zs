@@ -41,10 +41,27 @@ recipes.addShapeless(<minecraft:prismarine_shard>, [<minecraft:sand>, <minecraft
 recipes.addShapeless(<minecraft:spider_eye>, [<minecraft:rotten_flesh>, <minecraft:red_mushroom>]);
 recipes.addShapeless(<minecraft:rotten_flesh>, [<minecraft:beef>, <minecraft:dirt>]);
 recipes.addShapeless(<contenttweaker:bqmupdate>, [<minecraft:dirt>, <minecraft:wheat_seeds>]);
+
 #Dragon Breath
 recipes.addShaped(<minecraft:dragon_breath>, [[<minecraft:obsidian>, <ore:blockEnder>, <minecraft:obsidian>],[<minecraft:ender_eye>,<tconstruct:slime:3>, <minecraft:ender_eye>], [<minecraft:nether_star>, <minecraft:chorus_fruit>, <minecraft:nether_star>]]);
+
 #Paper Recipies 
 recipes.addShapeless(<minecraft:paper>* 3, [<betterwithmods:material:22>, <betterwithmods:material:22>, <simplecorn:corncob>]);
 recipes.addShapeless(<minecraft:paper>* 3, [<betterwithmods:material:22>, <betterwithmods:material:22>, <minecraft:wheat>]);
 recipes.addShapeless(<minecraft:paper>* 3, [<betterwithmods:material:22>, <minecraft:clay_ball>, <minecraft:wheat>]);
+
+#EU wand of destruction
+recipes.removeShaped(<extrautils2:itemdestructionwand>);
+recipes.addShaped(<extrautils2:itemdestructionwand>, 
+[[null, <extrautils2:ingredients:12>, <extrautils2:suncrystal>], 
+[null, <extrautils2:decorativesolidwood:1>, <extrautils2:ingredients:12>], 
+[<extrautils2:decorativesolidwood:1>,null,null]]);
+
+#EU builders wand
+recipes.removeShaped(<extrautils2:itembuilderswand>);
+recipes.addShaped(<extrautils2:itembuilderswand>, 
+[[null, <minecraft:gold_ingot>, <minecraft:diamond>], 
+[null, <extrautils2:decorativesolidwood:1>, <minecraft:gold_ingot>], 
+[<extrautils2:decorativesolidwood:1>,null,null]]);
+
 #File End
