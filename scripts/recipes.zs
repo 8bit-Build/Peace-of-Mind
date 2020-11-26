@@ -64,4 +64,8 @@ recipes.addShaped(<extrautils2:itembuilderswand>,
 [null, <extrautils2:decorativesolidwood:1>, <minecraft:gold_ingot>], 
 [<extrautils2:decorativesolidwood:1>,null,null]]);
 
-#File End
+#Remove Wub Hammer crash issue
+recipes.remove(<tp:wub_hammer>);
+mods.jei.JEI.hide(<tp:wub_hammer>);
+
+#end
