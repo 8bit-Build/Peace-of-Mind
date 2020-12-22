@@ -1,21 +1,25 @@
 
+
+Peace of mind 2.1.1 Update.
+
 #Server Notes For Admins#
 
 -Remember to Backup your world(s) before updating!!!
 
--Warning!!! -This update (2.1.0) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.0!!!
--If server gets stuck when updating server on a currnet world, type /fml confirm in the console, wait a few minutes as the server will backup the old world, then procede loading.
+-Warning!!! -This update (2.1.1) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.1!!!
+-If server gets stuck when on load up after updating server on a currnet world, type /fml confirm in the console, wait a few minutes as the server will backup the old world, then proceed loading.
 
 #By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
 -Win_start_server.bat= if running windows os server
 -Linux_launch.sh= for linux os server
--Nac launch.command=for mac os server
+-Mac launch.command=for mac os server
 
 -Running one of these scripts, will gen the server, remember to edit server.properties to your liking IP, ports, memory, whitelist,ect.
 -Remember to Backup your world(s) before updating!!!
--If server gets stuck when updating server on currnet world type /fml confirm in the console
-
-# Once loaded up, Remember to run run these commands as admin or op: 
+# Quest-book update=Once loaded up, Remember to run run these commands as admin or op on server:
 "/bq_admin default load" and "/bqs_loot default load"
 
--These will update the questbook and the loot database to current version
+-These will update the quest-book and the loot database to current version on the server
+
+#See Client Change-log for full details on updates
+Thanks Everyone!
