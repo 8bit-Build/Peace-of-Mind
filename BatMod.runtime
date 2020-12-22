@@ -1,0 +1,9 @@
+#Mon Dec 21 22:22:48 EST 2020
+Coords.location=0
+Timer.visible=false
+Info.location=0
+Coords.visible=1
+Info.visible=3
+Timer.running=false
+Timer.location=3
+Timer.saved=00|00|00
