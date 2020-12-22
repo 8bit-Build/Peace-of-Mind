@@ -1,6 +1,8 @@
 #v2.1.1-POM # December # Update
 -Please Remember to Backup your world(s) before updating!!!
--Once updated craft the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
+#Don't forget to Update your Quest-book!
+-Quest book update in game item by: 1 dirt and 1 seeds in crafting table=Quest book updater, then just click once to update. Or use quest-book update quest under important info! -Example Pic Click here
+-Or run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
 -These will update the questbook and the loot database
 -Thanks everyone, happy mining, and enjoy the pack!
 
@@ -75,7 +77,6 @@ refinedstorage-1.6.16.jar
 refinedstorageaddons-0.4.5.ja
 Roots-1.12.2-3.0.32.jar
 rustic-1.1.7.jar
-[1.15.2] SecurityCraft v1.8.20.2.jar
 SolarFluxReborn-1.12.2-12.4.11.jar
 StorageDrawers-1.12.2-5.4.2.jar
 Streams-1.12-0.4.9.jar
