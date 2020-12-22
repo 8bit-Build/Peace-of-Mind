@@ -7,7 +7,7 @@
 
 -Latest Released Files: <a href="https://www.curseforge.com/minecraft/modpacks/peace-of-mind/files">CurseForge</a>
 
--Pack Mod Count= 145
+-Pack Mod Count= 147
 
 -Dedicated Ram= >4GB
 
