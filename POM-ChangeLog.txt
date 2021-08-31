@@ -1,100 +1,105 @@
-#v2.1.1-POM # December # Update
+#v2.1.2-POM # May 21 # Mystical Update
 -Please Remember to Backup your world(s) before updating!!!
-#Don't forget to Update your Quest-book!
--Quest book update in game item by: 1 dirt and 1 seeds in crafting table=Quest book updater, then just click once to update. Or use quest-book update quest under important info! -Example Pic Click here
--Or run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
+-Once updated craft the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
 -These will update the questbook and the loot database
 -Thanks everyone, happy mining, and enjoy the pack!
 
 #Fixed/Comments:
 -Forge 14.23.5.2855
--Many Mod Updates
--Main menu updates (formatting) 2.1.1
+-Mod Updates to keep the pack current/stability
+-Title Changes
+-Main menu updates (formatting) 2.1.2
 -Please backup your world(s) before updating!
--Fixed Discord RPC loading and pack icons display
--Fixed TP Wub Hammer casuing crashes with OreEx, removed recipe 
+-Spawn rate of hell sprouts reset due to overrun/lag in nether.
+-if continues use server command /kill @e[type=mysticalworld:entity_hell_sprout] (should be fixed)
+-Spawn rate of lava cats turned down possible lag of nether 
+-updated Discord RPC loading and pack icons display
+-ghost quests issue removed
+-Dynaminc Surroundings-embedded Mixin library to stable version 0.8 per dev
+-remaining on better with mods version -1.12.2.3.23, 1.12.2.3.24 causing pack crash
 
 #Issues:
--#11-Packed Ice Peaceful recipe
--#10-Chunk loading ward uncraftable-Will be disabled/quest edit, use FTB Utilities for chunkload
--#12-Extra utilities 2- Destruction Wand Recipe updated
--#14-xnet nbt set to true for routing connections quest
--Nether Star Quest spelling typo fixed-
+#20-Over spawn of Hell sprouts in nether overspawn causing lag- thanks to dev noobanidus, for mod update-mystical world, hell sprouts and lava cats that specifies which spawn category they appear in. 
 
 
 #Config Changes:
 -Reminder: FTB utilities backups=(check ftbbackups.cfg)
 -Verified open quests=defaults to minus key, is set(again)=key_key.betterquesting.quests:12:NONE
--Inventory tweaks config chnages-auto sorting
+-Inventory tweaks config checked-auto sorting
+-Astral Config -S:weakSkyRenders <0> partial fix for issues with those that run optifine shaders and graphics flickering.
+
 
 #Whats New?:
-AtlasExtras-1.12.2-1.8.jar
-Batty's Coordinates PLUS Mod for Forge-1.12.0_004.jar
-Better Questing Questbook Option (Key Bining Minus Key is still available for questbook as well)
 
 #Mods Removed:
-ModLister-ModLister.com is shut down! (7/20/2020)
 
-#Mods Updated: (2.1.1) -12/21/2020
+#Mods Updated: (2.1.2) -8/30/2021
+base-1.12.2-3.14.0.jar
+BetterFoliage-MC1.12-2.3.3.jar
+BetterWithMods-1.12-2.3.23.jar -1.12.2.3.24 causing crashes
+Botania r1.10-364.4.jar
+Ceramics-1.12-1.3.7b.jar
+Chunk Pregenerator-V1.12-2.5.0.jar
+CraftTweaker2-1.12-4.1.20.660.jar
+DynamicSurroundings-1.12.2-3.6.2.1.jar
+foamfix-0.10.14-1.12.2.jar
+FTBUtilities-5.4.1.131.jar
+inventorypets-1.12-2.0.15.jar
+_MixinBootstrap-1.1.0.jar
+MouseTweaks-2.10.1-mc1.12.2.jar
+mysticalworld-1.12.2-1.10.0.jar
+mysticallib-1.12.2-1.11.0.jar
+Patchouli-1.0-23.6.jar
+Roots-1.12.2-3.1.1.jar
+Scannable-MC1.12.2-1.6.3.26.jar
+Xtones-1.2.2.jar
 
-AppleCore-mc1.12.2-3.4.0.jar
-AppleSkin-mc1.12-1.0.14.jar
-astralsorcery-1.12.2-1.10.27.jar
-badwithernocookiereloaded-1.12.2-3.4.18.jar
-BetterQuesting-3.5.329.jar
-BetterWithMods-1.12-2.3.23.jar
-BiomeTweaker-1.12.2-3.2.369.jar
-Chisel-MC1.12.2-1.0.2.45.jar
-Chunk Pregenerator V1.12-2.4E.jar
-CTM-MC1.12.2-1.0.2.31.jar
-Controlling-3.0.10.jar
-CraftTweaker-1.15.2-6.0.0.45.jar
-CraftPresence-Forge-1.15.2-Release-1.7.5.jar
-DoggyTalents-1.12.2-1.15.1.6.jar
-DynamicSurroundings-1.12.2-3.6.1.0.jar
-enderchests-1.15-1.6.6.jar
-fairylights-2.1.11-1.12.2.jar
-Farseek-1.12-2.5.1.jar
-foamfix-0.10.11-1.12.2.jar
-ForgeEndertech-1.12.2-4.5.5.0-build.0561.jar
-FTBLib-5.4.7.2.jar
-FTBUtilities-5.4.1.130.jar
-ImmersiveEngineering-0.12-98.jar
-inventorypets-1.12-2.0.6.jar
-InventoryTweaks-1.64+dev.151.jar
-jeiintegration_1.12.2-1.6.0.jar
-journeymap-1.12.2-5.7.1.jar
-just-enough-harvestcraft-1.12.2-1.7.2.jar
-jei_1.12.2-4.16.1.302.jar
-LootTweaker-0.1.7+MC1.12.2.jar
-mysticalworld-1.12.2-1.9.2.jar
-mysticallib-1.12.2-1.9.0.jar
-Patchouli-1.0-22.jar
-performant-1.15-3.12m.jar
-Psi-r1.1-78.2.jar
-Quark-r1.6-179.jar
-refinedstorage-1.6.16.jar
-refinedstorageaddons-0.4.5.ja
-Roots-1.12.2-3.0.32.jar
-rustic-1.1.7.jar
-SolarFluxReborn-1.12.2-12.4.11.jar
-StorageDrawers-1.12.2-5.4.2.jar
-Streams-1.12-0.4.9.jar
-xnet-1.15-2.1.13.jar
-Xtones-1.2.1.jar
+
+
 
 ##End##
+Include batmod runtime file to save coord options upon export
 
-#Server Change/Readme/Notes#
--Cleaned up Mods/Config not needed for server-Removed Client/Visual only Mods
-#By popular Demand Start Server scripts (choose one) based on OS being used (configured with 4gb ram to start):
+FTB Backups allows for scheduled, incremental backups. By default, a backup will occur every 30 minutes. This can be changed in the file: "config/ftbutilities.cfg"
+
+Backups can be manually performed with the command "/backup start"
+Backups are saved as .zip files in a folder called "backups" in the minecraft directory.
+
+#Server Notes#
+
+#By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
+-Start.bat= if running windows os server
+-launch.sh= for linux os server
+-launch.command=for mac os server
+
+-Running one of these scripts, will gen the server, remember to edit server.properties to your liking IP, ports, memory, whitelist,ect.
+-Remember to Backup your world(s) before updating!!!
+-If server gets stuck when updating server on currnet world type /fml confirm in the console
+
+Peace of mind 2.1.2 Update.
+
+#Server Notes For Admins#
+
+-Remember to Backup your world(s) before updating!!!
+
+-Warning!!! -This update (2.1.1) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.1!!!
+-If server gets stuck when on load up after updating server on a currnet world, type /fml confirm in the console, wait a few minutes as the server will backup the old world, then proceed loading.
+
+#By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
 -Win_start_server.bat= if running windows os server
 -Linux_launch.sh= for linux os server
 -Mac launch.command=for mac os server
 
 -Running one of these scripts, will gen the server, remember to edit server.properties to your liking IP, ports, memory, whitelist,ect.
 -Remember to Backup your world(s) before updating!!!
--If server gets stuck when updating server on currnet world type /fml confirm in the console
+# Quest-book update=Once loaded up, Remember to run run these commands as admin or op on server:
+"/bq_admin default load" and "/bqs_loot default load"
+
+-These will update the quest-book and the loot database to current version on the server
+
+#See Client Change-log for full details on updates
+Thanks Everyone!
+
 
 ##Notes before Release:
 Remove Extra Resource Packs
