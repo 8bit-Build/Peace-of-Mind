@@ -1,9 +1,9 @@
-#Mon Dec 21 22:22:48 EST 2020
+#Mon Aug 30 23:16:59 EDT 2021
 Coords.location=0
 Timer.visible=false
 Info.location=0
-Coords.visible=1
-Info.visible=3
+Coords.visible=3
+Info.visible=0
 Timer.running=false
-Timer.location=3
+Timer.location=2
 Timer.saved=00|00|00
