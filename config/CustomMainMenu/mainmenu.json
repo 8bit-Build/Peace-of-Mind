@@ -125,7 +125,7 @@
         },
         "tip":
         {
-            "text" : "Tip: Access Quests In-Game, Press Minus Key.",
+            "text" : "Tip: Optional Access to Quests In-Game, Press Minus Key.",
             "posX" : 5,
             "posY" : -20,
             "color" : -255,
@@ -134,7 +134,7 @@
         },
 		  "version":
         {
-            "text" : "Version 2.1.0",
+            "text" : "Version 2.1.2",
             "posX" : 5,
             "posY" : 53,
             "color" : -255,
