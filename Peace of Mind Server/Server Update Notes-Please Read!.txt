@@ -1,10 +1,9 @@
-Peace of mind 2.1.1 Update.
+Peace of mind 2.1.2 Update.
 
 #Server Notes For Admins#
 
 -Remember to Backup your world(s) before updating!!!
 
--Warning!!! -This update (2.1.1) is no longer using the Roots 2 mod version. Roots 2 is now Roots 3 and pack updated to Roots 3 Mod version. Current Quests and future updates will reflect this change. Updating will likely break existing roots 2 world progress due to item changes and quests that used Roots 2 mod. You will likely have to redo Roots 3 quests and progress/items. Backup your worlds before updating to 2.1.1!!!
 -If server gets stuck when on load up after updating server on a currnet world, type /fml confirm in the console, wait a few minutes as the server will backup the old world, then proceed loading.
 
 #By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
