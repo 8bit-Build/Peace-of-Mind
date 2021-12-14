@@ -1,82 +1,38 @@
-#v2.1.2-POM # May 21 # Mystical Update
+#v2.1.3-POM # Dec 21 # Security Update
 -Please Remember to Backup your world(s) before updating!!!
 -Once updated craft the questbook updater OR run these commands as admin or op: "/bq_admin default load" and "/bqs_loot default load"
 -These will update the questbook and the loot database
 -Thanks everyone, happy mining, and enjoy the pack!
 
 #Fixed/Comments:
--Forge 14.23.5.2855
--Mod Updates to keep the pack current/stability
+-Forge 14.23.5.2859
+-Update Log4J to fix the security issue
+-https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition
+-Few Mod Updates to keep the pack current/stability
 -Title Changes
--Main menu updates (formatting) 2.1.2
+-Main menu updates (formatting) 2.1.3
 -Please backup your world(s) before updating!
--Spawn rate of hell sprouts reset due to overrun/lag in nether.
--if continues use server command /kill @e[type=mysticalworld:entity_hell_sprout] (should be fixed)
--Spawn rate of lava cats turned down possible lag of nether 
--updated Discord RPC loading and pack icons display
--ghost quests issue removed
--Dynaminc Surroundings-embedded Mixin library to stable version 0.8 per dev
 -remaining on better with mods version -1.12.2.3.23, 1.12.2.3.24 causing pack crash
+-oauth-1.06.2.jar= Reauth Mod removed, currently it does not support Microsoft accounts.
 
 #Issues:
-#20-Over spawn of Hell sprouts in nether overspawn causing lag- thanks to dev noobanidus, for mod update-mystical world, hell sprouts and lava cats that specifies which spawn category they appear in. 
-
 
 #Config Changes:
 -Reminder: FTB utilities backups=(check ftbbackups.cfg)
--Verified open quests=defaults to minus key, is set(again)=key_key.betterquesting.quests:12:NONE
--Inventory tweaks config checked-auto sorting
--Astral Config -S:weakSkyRenders <0> partial fix for issues with those that run optifine shaders and graphics flickering.
+-Verified open quests=defaults to minus key, quest-book is also a option.
 
+#Mods Updated: (2.1.3) -12/12/2021
+BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar
+Chunk Pregenerator-V1.12-2.5.1.jar
+CraftTweaker2-1.12-4.1.20.670.jar
+DynamicSurroundings-1.12.2-3.6.3.jar
+ForgeEndertech-1.12.2-4.5.6.0-build.0619.jar
+mysticalworld-1.12.2-1.11.0.jar
+mysticallib-1.12.2-1.13.0.jar
+oauth-1.06.2.jar (client only)
+Roots-1.12.2-3.1.4.jar
 
-#Whats New?:
-
-#Mods Removed:
-
-#Mods Updated: (2.1.2) -8/30/2021
-base-1.12.2-3.14.0.jar
-BetterFoliage-MC1.12-2.3.3.jar
-BetterWithMods-1.12-2.3.23.jar -1.12.2.3.24 causing crashes
-Botania r1.10-364.4.jar
-Ceramics-1.12-1.3.7b.jar
-Chunk Pregenerator-V1.12-2.5.0.jar
-CraftTweaker2-1.12-4.1.20.660.jar
-DynamicSurroundings-1.12.2-3.6.2.1.jar
-foamfix-0.10.14-1.12.2.jar
-FTBUtilities-5.4.1.131.jar
-inventorypets-1.12-2.0.15.jar
-_MixinBootstrap-1.1.0.jar
-MouseTweaks-2.10.1-mc1.12.2.jar
-mysticalworld-1.12.2-1.10.0.jar
-mysticallib-1.12.2-1.11.0.jar
-Patchouli-1.0-23.6.jar
-Roots-1.12.2-3.1.1.jar
-Scannable-MC1.12.2-1.6.3.26.jar
-Xtones-1.2.2.jar
-
-
-
-
-##End##
-Include batmod runtime file to save coord options upon export
-
-FTB Backups allows for scheduled, incremental backups. By default, a backup will occur every 30 minutes. This can be changed in the file: "config/ftbutilities.cfg"
-
-Backups can be manually performed with the command "/backup start"
-Backups are saved as .zip files in a folder called "backups" in the minecraft directory.
-
-#Server Notes#
-
-#By popular Demand now with Start Server scripts (choose one) based on OS being used (configured with 4g ram to start):
--Start.bat= if running windows os server
--launch.sh= for linux os server
--launch.command=for mac os server
-
--Running one of these scripts, will gen the server, remember to edit server.properties to your liking IP, ports, memory, whitelist,ect.
--Remember to Backup your world(s) before updating!!!
--If server gets stuck when updating server on currnet world type /fml confirm in the console
-
-Peace of mind 2.1.2 Update.
+Peace of mind 2.1.3 Security Update.
 
 #Server Notes For Admins#
 
@@ -99,7 +55,6 @@ Peace of mind 2.1.2 Update.
 
 #See Client Change-log for full details on updates
 Thanks Everyone!
-
 
 ##Notes before Release:
 Remove Extra Resource Packs
